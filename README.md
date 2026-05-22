@@ -2,12 +2,25 @@
 
 Software Development Engineer · Data Analyst · Full-Stack · AI-Powered Tools
 
-## 🛠 Tech Stack
+## 💻 Software Development Skills
 **Languages:** JavaScript, TypeScript, Python, Node.js  
 **Frontend:** React, Material UI, Bootstrap  
-**Backend:** Express.js, REST APIs, MongoDB, SQL  
-**AI & Data:** LLM APIs, Prompt Engineering, Power BI, Alteryx, ETL, Data Analytics  
-**Cloud:** AWS (basic), GCP (basic), Git, Agile/Scrum  
+**Backend:** Express.js, REST APIs, MongoDB, SQL, NoSQL  
+**AI & LLM:** LLM APIs, Prompt Engineering, AI-Powered Automation  
+**Cloud & DevOps:** AWS (basic), GCP (basic), Git, Agile/Scrum, CI/CD  
+
+## 📊 Data Analyst Skills
+**Analytics & BI:** Power BI, Alteryx Designer, Advanced Excel, DAX, KPI Tracking  
+**Data Engineering:** ETL Pipelines, Data Cleaning & Validation, Anomaly Detection  
+**Databases:** SQL (PostgreSQL/MySQL), MongoDB, NoSQL  
+**Reporting:** Dashboard Development, Stakeholder Reporting, Audit Analytics  
+
+## 🏅 Certifications
+- Google Data Analytics Professional Certificate — Coursera  
+- IBM Data Analyst Professional Certificate — Coursera  
+- Alteryx Designer Core Certification — Alteryx  
+- Data Science Certification — Entri Elevate  
+- Advanced Excel Certification  
 
 ## 🚀 Featured Projects
 | Project | Stack | Highlight |
