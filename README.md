@@ -31,7 +31,7 @@ Software Development Engineer · Data Analyst · Full-Stack · AI-Powered Tools
 | [Sales Intelligence Dashboard](https://github.com/soorajkstechy/sales-intelligence-dashboard) | React, Node.js, SQL, Power BI | Identified 3 underperforming regions, adopted as team standard |
 
 ## 💼 Experience
-- **Data Analyst Intern** — EY (Ernst & Young) · Aug 2025 – Feb 2026
+- **Data Analyst** — EY (Ernst & Young) · Aug 2025 – Mar 2026
 - **SDE Intern** — Srishti Campus, Techno Park · May–Jul 2024
 
 ## 📫 Contact
