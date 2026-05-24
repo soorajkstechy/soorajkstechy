@@ -13,7 +13,8 @@ Software Development Engineer · Data Analyst · Full-Stack · AI-Powered Tools
 **Analytics & BI:** Power BI, Alteryx Designer, Advanced Excel, DAX, KPI Tracking  
 **Data Engineering:** ETL Pipelines, Data Cleaning & Validation, Anomaly Detection  
 **Databases:** SQL (PostgreSQL/MySQL), MongoDB, NoSQL  
-**Reporting:** Dashboard Development, Stakeholder Reporting, Audit Analytics  
+**Reporting:** Dashboard Development, Stakeholder Reporting, Audit Analytics
+**:Logowatch:**
 
 ## 🏅 Certifications
 - Google Data Analytics Professional Certificate — Coursera  
